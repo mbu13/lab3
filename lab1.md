@@ -17,8 +17,8 @@ d)
 e)
 > 2) 
 
-> 
+> ![screen shot 2016-01-29 at 12 58 22 pm](https://cloud.githubusercontent.com/assets/4596631/12684399/c08cb6da-c68c-11e5-987d-f1972de22095.png)
 
 > 3)
 
->![screen shot 2016-01-29 at 1 32 06 pm](https://cloud.githubusercontent.com/assets/4596631/12684401/c2fba264-c68c-11e5-9437-6dd8fff92362.png)
+> ![screen shot 2016-01-29 at 1 32 06 pm](https://cloud.githubusercontent.com/assets/4596631/12684401/c2fba264-c68c-11e5-9437-6dd8fff92362.png)
