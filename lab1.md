@@ -13,4 +13,4 @@ c)
 
 d)
 > 3)
-> ![screen shot 2016-01-29 at 12 35 37 pm](https://cloud.githubusercontent.com/assets/4596631/12683072/0895cffa-c685-11e5-85bf-6f3ca21d9128.png)
+![screen shot 2016-01-29 at 12 35 37 pm](https://cloud.githubusercontent.com/assets/4596631/12683072/0895cffa-c685-11e5-85bf-6f3ca21d9128.png)
