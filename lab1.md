@@ -22,3 +22,9 @@ e)
 > 3)
 
 > ![screen shot 2016-01-29 at 1 32 06 pm](https://cloud.githubusercontent.com/assets/4596631/12684401/c2fba264-c68c-11e5-9437-6dd8fff92362.png)
+
+f)
+> ![screen shot 2016-01-29 at 1 43 31 pm](https://cloud.githubusercontent.com/assets/4596631/12684706/5e47c1c0-c68e-11e5-9105-e1c21ab646e6.png)
+
+g) 
+> 
