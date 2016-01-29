@@ -27,4 +27,6 @@ f)
 > ![screen shot 2016-01-29 at 1 43 31 pm](https://cloud.githubusercontent.com/assets/4596631/12684706/5e47c1c0-c68e-11e5-9105-e1c21ab646e6.png)
 
 g) 
-> 
+> 1) One of the ideas include an app that lets groups of friends easily organize hangouts or find things to do via maps. The app would also allow instant messasging and would require users to make accounts.
+
+> 2) We would need to find all the necessary tools including database management systems and figure out what platforms we want to target.
