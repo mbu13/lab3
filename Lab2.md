@@ -20,6 +20,7 @@
 > See LicenseTest repo
 
 9)
+>
 | Day     | Meal    | Price |
 | --------|---------|-------|
 | Monday  | pasta   | $6    |
