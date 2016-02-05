@@ -21,8 +21,11 @@
 
 9)
 >
-| Website       | License Present | License |
-| --------------|-----------------|---------|
-| Monday        | pasta           | $6      |
-| Tuesday       | chicken         | $8      |
+| Website                                       | License Present | License |
+| ----------------------------------------------|-----------------|---------|
+| http://sharpnav.com/                          | Yes             | MIT     |
+| https://github.com/AutoRoute/node             | Yes             | MIT     |
+| http://cloudbench-ide.github.io/cloudbench/   | Yes             | APACHE  |
+| http://shuttles.rpi.edu/                      | No              | N/A     |
+| https://github.com/bocaaust/CrowdCop          | Yes             | APACHE  |
 
