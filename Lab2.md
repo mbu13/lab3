@@ -8,7 +8,7 @@
 > I do agree with this claim that people should release their software early and let others build on and improve the code. I think this fosters a more engaged community and also helps to generate better implementations since many people would be contributing as opposed to a single team imposing their narrow-focused ideas. However, I don't believe people should just put out sloppy code and expect others to implement the features for them. I think people should at least have a solid foundation (meaning at least have the main implementation completed) and then allow others to contribute for modification.
 
 5)
->
+> Android uses Apache because Google still wants to protect certain trademarks and copyrights but want to allow developers to be able to modify and create their own derivations of their code.
 
 6)
 > Chromium
@@ -29,3 +29,5 @@
 | http://shuttles.rpi.edu/                      | No              | N/A     |
 | https://github.com/bocaaust/CrowdCop          | Yes             | APACHE  |
 
+10)
+> The project I would like to work on would allow groups of friends find events and activities to do locally. They can invite friends to certain hangout groups and see clearly who is available and wants to do something. Therefore, the main customers/users will probably be younger groups of people, but is not limited to older groups. The licensing will be Apache licensed. The project will probably not be open enough to be categorized under GPL.
