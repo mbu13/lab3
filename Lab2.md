@@ -17,3 +17,11 @@
 > For the common good, the GPL license would be a better option. The GPL offers a wider range of freedom and also requires that its derivative works also be GPL, thus modified versions will also be free and public. For a developer, the LGPL would be ideal because it offers flexibility with libraries and still allows them to keep code proprietary and do not have to be released. For companies, the Apache/BSD license would be the better option since it allows them to modify code but keep the modification proprietary. This would help companies make profit on derived software.
 
 8)
+> See LicenseTest repo
+
+9)
+> ---
+layout: post
+title: Hi
+---
+
