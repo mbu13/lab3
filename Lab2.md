@@ -20,7 +20,7 @@
 > See LicenseTest repo
 
 9)
-> ---
+---
 layout: post
 title: Hi
 ---
