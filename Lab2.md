@@ -21,8 +21,8 @@
 
 9)
 >
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| Website | License Present | License |
+| --------|-----------------|---------|
+| Monday  | pasta           | $6      |
+| Tuesday | chicken         | $8      |
 
