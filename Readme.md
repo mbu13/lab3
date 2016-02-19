@@ -1,4 +1,1 @@
-* Haoyan (Matt) Bu
-* (photo)
-* Graduating year: 2018
-* Mobile application software
+# Intro-to-Open-Source-Spring-2016
